@@ -1,0 +1,1 @@
+nome = Dogville, ano de lancamento = 2003, duração em minutos = 178
